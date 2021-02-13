@@ -1,4 +1,4 @@
-# Ruby-test-task-
+# Ruby-test-task
 
 Write BEST PRACTICE code in Ruby to calculate the check digit of an ISBN13 barcode
 
